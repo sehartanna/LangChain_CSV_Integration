@@ -1,2 +1,2 @@
-# LangChain_CSV_Integration
-Reading CSV and Excel files, chatting with them through LLM (LangChain) 
+# csvchat-langchain
+CSV Chat with LangChain and OpenAI
